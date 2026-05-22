@@ -31,19 +31,19 @@ My goal is to transform raw data into actionable insights through clean analysis
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DSanish&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DSanish&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anishwebdeveloper&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anishwebdeveloper&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=DSanish&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=Anishwebdeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CFMrahul&theme=gruvbox&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anishwebdeveloper&theme=gruvbox&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 <h2 align="center">✍️ Developer Quote</h2>
@@ -55,30 +55,30 @@ My goal is to transform raw data into actionable insights through clean analysis
 
 <p align="center">
   <!-- Row 1 -->
-  <a href="https://github.com/DSanish/uber-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSanish&repo=uber-data-analysis&theme=tokyonight&hide_border=true" height="180px"/>
+  <a href="https://github.com/Anishwebdeveloper/uber-data-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anishwebdeveloperh&repo=uber-data-analysis&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
   
-  <a href="https://github.com/DSanish/student_result_management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSanish&repo=YOUR-SECOND-REPO&theme=tokyonight&hide_border=true" height="180px"/>
+  <a href="https://github.com/Anishwebdeveloper/student_result_management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anishwebdeveloper&repo=YOUR-SECOND-REPO&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
 </p>
 
 <p align="center">
   <!-- Row 2 -->
   <a href="https://github.com/DSanish/YOUR-THIRD-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSanish&repo=YOUR-THIRD-REPO&theme=tokyonight&hide_border=true" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anishwebdeveloper&repo=YOUR-THIRD-REPO&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
   
-  <a href="https://github.com/DSanish/YOUR-FOURTH-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSanish&repo=YOUR-FOURTH-REPO&theme=tokyonight&hide_border=true" height="180px"/>
+  <a href="https://github.com/Anishwebdeveloper/YOUR-FOURTH-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anishwebdeveloper&repo=YOUR-FOURTH-REPO&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
 </p>
 
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DSanish&label=Profile%20views&color=0e75b6&style=flat" alt="DSanish"/>
+<img src="https://komarev.com/ghpvc/?username=Anishwebdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="DSanish"/>
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
